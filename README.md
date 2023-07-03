@@ -24,6 +24,6 @@ Supplementary Information for Project "Not God, Not Even Science?! Towards Peace
 1. contra_first*.csv & pro_first*.csv - The aggregated tweets used to produce the 8 semantic networks (using NoCode Functions) which I showed in class 
 
 **Saved Environment from Main Code, containing everything until just after the last use of Twitter API:**
-1. EnvironmentWithCompleteMainDict.spydata - The saved environment with collected data/variables of up to step 4 of Causalityv1.py. 
+1. EnvironmentWithCompleteMainDict.spydata - The saved environment with collected data/variables of up to step 4 of Causalityv1.py, or up to step 3 of the pipeline outline. 
 2. EnvironmentWithCompleteMainDict_*.npy - The saved arrays from the same environment, which for some reason saved as a different file.
 
