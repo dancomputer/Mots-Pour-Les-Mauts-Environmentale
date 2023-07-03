@@ -3,11 +3,11 @@ Supplementary Information for Project "Not God, Not Even Science?! Towards Peace
 
 # General outline of the v1a pipeline, for further detail see Causalityv1.py: 
 
-#%%0. First, query by keyword and classify pro-and-contra climate change tweets. Then, query for the authors of pro- and contra- climate change tweets, and filter for authors with number of tweets >30,000 tweets and account age >5 years.  Do this until a quota of prolific pro and contra climate change twitter users is found.
-#%%1. Do some manual selection, to verify classificaiton and make sure authors are indivuals
-#%%2. Collect tweets of the selected authors.
-#%%3. Generate semantic networks using collected tweets.
-#%%4. Analyze the semantic networks using concepts from psychoanalysis and cognitive science.
+0. First, query by keyword and classify pro-and-contra climate change tweets. Then, query for the authors of pro- and contra- climate change tweets, and filter for authors with number of tweets >30,000 tweets and account age >5 years.  Do this until a quota of prolific pro and contra climate change twitter users is found.
+1. Do some manual selection, to verify classificaiton and make sure authors are indivuals
+2. Collect tweets of the selected authors.
+3. Generate semantic networks using collected tweets.
+4. Analyze the semantic networks using concepts from psychoanalysis and cognitive science.
 
 # Files: https://drive.google.com/drive/folders/1UXxWsZTSJbTWZBoyiLAcFHX0l0bqiA2h?usp=drive_link 
 
